@@ -27,17 +27,16 @@
   
 <div align="left">
   
-<li>
- <b>I’m currently learning </b> Nextjs + [Supabase] </li>
-<li>
-<b>I’m looking to collaborate on </b>  Nextjs projects
-</li>
+<li><b>I’m currently learning </b> Nextjs + [Supabase] </li>
+<br>
+<li><b>I’m looking to collaborate on </b>  Nextjs projects</li>
+<br>
 <li>
 <b>Hobbys:</b> Web Development ,Exercise , Anime
 </li>
 
 </div>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <h2 align="center">🅻🅰🅽🅶🆄🅰🅶🅴🆂 🅰🅽🅳 🆃🅾🅾🅻🆂</h2>
