@@ -1,6 +1,6 @@
 <!--Header: start-->
 <div align="center">
-<img src="https://64.media.tumblr.com/d871f029ad4206d17cc6fb52febcd9f7/8cd61287d918f445-fd/s400x600/5887ea80395a0ebafe46468d8411e327c44d01b4.gifv" width=500 height=200 >
+<img src="https://64.media.tumblr.com/d871f029ad4206d17cc6fb52febcd9f7/8cd61287d918f445-fd/s400x600/5887ea80395a0ebafe46468d8411e327c44d01b4.gif" width=500 height=200 >
   
 </div>
 
@@ -18,15 +18,26 @@
 
 <h2 align="center">🅰🅱🅾🆄🆃🅼🅴 </h2>
 
-<div align="center">
 
 
-  1
-
+  <div align="center">
+<img src="https://64.media.tumblr.com/aadfdb60166729019172734b3c1e297d/8e2e83f59d83336e-fa/s400x600/b35e39b5576e3320cab2976746069afc590d9b90.gif" align="right">
+    
+  </div>
   
-</div>
+<div align="left">
+  
+<li>
+ <b>I’m currently learning </b> Nextjs + [Supabase] </li>
+<li>
+<b>I’m looking to collaborate on </b>  Nextjs projects
+</li>
+<li>
+<b>Hobbys:</b> Web Development ,Exercise , Anime
+</li>
 
-<br><br><br>
+</div>
+<br><br><br><br><br>
 
 
 <h2 align="center">🅻🅰🅽🅶🆄🅰🅶🅴🆂 🅰🅽🅳 🆃🅾🅾🅻🆂</h2>
@@ -35,7 +46,7 @@
 <p align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,css,html,php,nextjs,react,jquery,js,ts,nodejs,mysql,supabase,ps" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,css,html,php,nextjs,react,py,js,ts,nodejs,mysql,supabase,ps&perline=6" />
   </a>
   </p>
 <br>
