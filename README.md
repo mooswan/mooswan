@@ -54,8 +54,7 @@
 <div align="center">
 <h2 align="center"> 🅼🆈 🅿🆁🅾🅹🅴🅲🆃~</h2>
 <li><b>
-  [Open My Project](https://onlyme-6yjbcz97d-mooswans-projects.vercel.app)
-  
+ 
 <a href="https://onlyme-6yjbcz97d-mooswans-projects.vercel.app" target="_blank">
   Front End Only Fans
   </a>
