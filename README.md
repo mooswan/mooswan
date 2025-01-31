@@ -55,7 +55,7 @@
 <h2 align="center"> 🅼🆈 🅿🆁🅾🅹🅴🅲🆃~</h2>
 <li><b>
  
-<a href="https://onlyme-mooswans-projects.vercel.app" target="_blank">
+<a href="https://onlyme-eta.vercel.app" target="_blank">
   Front End Only Fans
   </a>
 </li></b>
