@@ -52,11 +52,9 @@
 <div>
 
 <div align="center">
- <b>
- 🅼🆈 🅿🆁🅾🅹🅴🅲🆃~
-  </b><br>
+<h2 align="center"> 🅼🆈 🅿🆁🅾🅹🅴🅲🆃~</h2>
 <li><b>
- <a href="https://onlyme-6yjbcz97d-mooswans-projects.vercel.app" target="_blank">
+<a href="https://onlyme-6yjbcz97d-mooswans-projects.vercel.app" target="_blank">
   Front End Only Fans
   </a>
 </li></b>
