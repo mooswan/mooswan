@@ -51,7 +51,7 @@
 <br>
 <div>
 
-<div align="left">
+<div align="center">
  <b>
  🅼🆈 🅿🆁🅾🅹🅴🅲🆃~
   </b><br>
