@@ -32,7 +32,7 @@
 <li><b>I’m looking to collaborate on </b>  Nextjs projects or Mini App Line , Telegram</li>
 <br>
 <li>
-<b>Hobbys:</b> Web Development ,Exercise , Anime
+<b>Hobbys:</b> Web Development ,Exercise , Anime, Game
 </li>
 
 </div>
