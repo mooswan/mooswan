@@ -62,6 +62,23 @@
 
 <li><b>
  
+<a href="https://yumeco.net" target="_blank">
+  Front End  + Socket + Tradingview
+  </a>
+</li></b>
+<li><b>
+ 
+<a href="https://www.telsuperleague.com/" target="_blank">
+  Front End  + API
+  </a>
+</li></b>
+
+
+<li><b>
+
+  
+<li><b>
+ 
 <a href="#" target="_blank">
   Front End App Telegram Airdrop
   </a>
