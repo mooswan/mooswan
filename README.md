@@ -103,10 +103,7 @@
   </div>
 
 <p>
-
-  :::::::
-</p>
-
+  <a href="https://myapp-pi-gold.vercel.app/"> Click </a></p>
 </div>
 <br>
 <div>
