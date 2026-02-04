@@ -98,8 +98,8 @@
 <a href="https://github.com/mooswan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooswan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
    </p> 
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mooswan&show_icons=true&bg_color=00000000)
-   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooswan&hide=javascript,css,scss,html&theme=tokyonight)
+
 <h2 align="center">🅲🅾🅽🆃🅰🅲🆃 🅼🅴</h2>
   <div align="center">
   </div>
